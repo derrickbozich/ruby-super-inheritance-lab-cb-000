@@ -1,3 +1,5 @@
+require_relative "./lib/student"
+
 class ChattyStudent < Student
   def hello
     super
